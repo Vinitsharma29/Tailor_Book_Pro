@@ -19,7 +19,7 @@ Tailor Book Pro replaces traditional paper-based record keeping with a modern di
 
 * Frontend: React / Next.js
 * Styling: Tailwind CSS
-* Backend & Database: (Supabase / Firebase – update if applicable)
+* Backend & Database: Supabase 
 * Deployment: Vercel
 
 ## Purpose of the Project
